@@ -44,3 +44,7 @@ Using npm:
 
 npm run dev
 and see the Localhost🎆   
+---
+## Live demo
+
+https://brainwave-loayzeid.vercel.app/
